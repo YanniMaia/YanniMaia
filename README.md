@@ -14,16 +14,18 @@ Gosto de transformar dados em decisões e de entender como proteger sistemas.
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sqlite,mysql,js,html,css,linux,git,github,vscode,powerbi" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=py,sqlite,html,css,git,github,vscode" alt="Tecnologias" />
 </p>
 
-**Dados:** · SQL · MySQL · Power BI · Excel
-**Segurança:** Linux · Conceitos de redes 
+**Linguagens:** Python · SQL · HTML · CSS
+**Dados:** pandas · matplotlib · SQLite · Excel
+**Segurança:** Análise de logs · Conceitos de redes
+**Ferramentas:** Git · GitHub · VS Code
 
 ## 📂 Projetos em destaque
 
 ### 📊 Dados
-- [Análise de Dados de Vendas](https://github.com/YanniMaia/Analise-de-Dados-e-vendas) – verificação de qualidade, limpeza e análise de um arquivo de vendas com pandas, com métricas (receita total, ticket médio), rankings e gráficos. Inclui testes automatizados.
+- [Análise de Dados de Vendas](https://github.com/YanniMaia/Analise-de-Dados-e-vendas) – verificação de qualidade, limpeza e análise de um arquivo de vendas com pandas, com métricas (receita total, ticket médio), rankings e gráficos em matplotlib. Inclui testes automatizados.
 - [Banco de Dados da Biblioteca](https://github.com/YanniMaia/Banco-de-Dados-Biblioteca) – modelagem relacional em SQLite (livros, autores, membros e empréstimos), com consultas usando JOIN, GROUP BY, subconsultas e VIEW, além de dicionário de dados.
 
 ### 🔐 Cibersegurança
