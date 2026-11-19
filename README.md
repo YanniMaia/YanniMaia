@@ -170,7 +170,6 @@ Se você acertou os três desafios, desbloqueou o título:
 ---
 
 ## 🐍 My Contributions
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/YanniMaia/YanniMaia/output/github-contribution-grid-snake-pink.svg" alt="GitHub contribution snake animation" width="100%" />
